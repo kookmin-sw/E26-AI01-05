@@ -46,7 +46,7 @@
 
 [**포스터 PDF 보기 →**](poster/NEURO_ROAD_2050_A0.pdf) · [편집용 SVG](poster/NEURO_ROAD_2050_Editable.svg) · [원본·글꼴 묶음](poster/NEURO_ROAD_2050_Editable_Package.zip)
 
-최종 발표는 이 포스터 한 장을 중심으로 준비합니다. 삽화는 확대 처리한 초안으로, 최종 A0 출력 전 원본 해상도 보강이 필요합니다. 파일 구성과 출력 조건은 [포스터 안내](poster/README.md)에 정리했습니다.
+
 
 ## 03 / 프로젝트 활동 기록
 
