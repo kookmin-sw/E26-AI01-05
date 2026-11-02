@@ -1,0 +1,9 @@
+# Preserve exported poster files exactly; avoid line-ending conversion in binaries.
+*.pdf binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.zip binary
+
+# The editable SVG embeds large image assets; keep its diff compact.
+poster/*.svg -diff
