@@ -47,7 +47,7 @@ AI가 주변 상황과 이동 수요를 판단하고, 전자석·충전 장치·
 
 [**출력용 PDF**](poster/NEURO_ROAD_2050_A0.pdf) · [편집용 SVG](poster/NEURO_ROAD_2050_Editable.svg) · [원본·폰트·제작 기록 ZIP](poster/NEURO_ROAD_2050_Editable_Package.zip) · [파일 안내](poster/README.md)
 
-중앙 그림은 Real-ESRGAN으로 해상도를 보강했으며, 실제 배치 기준 약 **216 DPI**, 상단 그림은 약 **152 DPI**입니다. 글자·설명선·심볼은 벡터로 유지했습니다.
+
 
 ## 04 / 프로젝트 활동 기록
 
