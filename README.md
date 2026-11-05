@@ -18,8 +18,12 @@
 
 2050년, 차량과 도로가 함께 위험을 감지하고 사람의 이동을 돕는 AI 완전자율주행도로를 상상합니다. 함께 보는 도로·바퀴 없는 이동·달리며 충전·접히는 주차·살아 움직이는 도로를 하나의 미래 장면에 담았습니다.
 
+<p class="presentation-launch"><a class="presentation-button" href="https://kookmin-sw.github.io/E26-AI01-05/poster/present.html"><strong>⛶ 포스터 발표 화면 열기</strong></a></p>
+
+발표 화면에서 **전체화면** 버튼을 누르세요. **← →**로 순서대로 확대하고, **0**으로 포스터 전체를 볼 수 있습니다.
+
 <div class="poster">
-  <a href="poster/NEURO_ROAD_2050_A0.pdf"><img src="assets/neuro-road-2050/poster-preview.png" alt="NEURO ROAD 2050 팀 포스터" width="600"/></a>
+  <a href="https://kookmin-sw.github.io/E26-AI01-05/poster/present.html"><img src="assets/neuro-road-2050/poster-preview.png" alt="NEURO ROAD 2050 팀 포스터 · 클릭하면 발표 화면이 열립니다" width="600"/></a>
 </div>
 
 <p align="center" class="poster-caption">

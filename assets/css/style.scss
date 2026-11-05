@@ -248,6 +248,19 @@ a:focus-visible {
 }
 
 /* A0 portrait preview: preserve the complete image, including its footer. */
+.presentation-launch { margin: 1.5rem 0 1rem; }
+.main-content .presentation-button {
+  display: inline-block;
+  padding: 0.8rem 1.4rem;
+  border-radius: 8px;
+  background: #087f83;
+  color: #ffffff;
+  text-decoration: none;
+  line-height: 1.5;
+}
+.main-content .presentation-button strong { color: inherit; }
+.main-content .presentation-button:hover { background: #065e64; color: #ffffff; }
+
 .poster {
   margin: 2rem 0 0.75rem;
   text-align: center;

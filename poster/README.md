@@ -6,12 +6,19 @@
 
 함께 보는 도로, 바퀴 없는 이동, 달리며 충전, 접히는 주차, 살아 움직이는 도로를 한 장에 담았습니다. **최신 수정본은 Draft07 · 2026.11.05**입니다.
 
-[![NEURO ROAD 2050 최신 포스터: 다섯 기능과 문제·사용자·기술 방식·검증 질문](../assets/neuro-road-2050/poster-preview.png)](NEURO_ROAD_2050_A0.pdf)
+<p class="presentation-launch"><a class="presentation-button" href="https://kookmin-sw.github.io/E26-AI01-05/poster/present.html"><strong>⛶ 포스터 발표 화면 열기</strong></a></p>
+
+발표자 컴퓨터에서 위 링크를 열고 **전체화면** 버튼을 누릅니다. **← →**로 제목부터 검증 질문까지 차례로 확대하고, **0**으로 전체 보기, **Esc**로 전체화면을 종료합니다. 상단의 영역 버튼이나 하단의 확대·축소 버튼도 사용할 수 있습니다.
+
+세로 포스터 전체를 볼 때는 좌우에 여백이 생깁니다. 글자를 크게 보여주려면 발표 순서에 따라 영역을 확대해 주세요.
+
+[![NEURO ROAD 2050 최신 포스터: 다섯 기능과 문제·사용자·기술 방식·검증 질문](../assets/neuro-road-2050/poster-preview.png)](https://kookmin-sw.github.io/E26-AI01-05/poster/present.html)
 
 ## 파일 보기
 
 | 파일 | 용도 |
 | --- | --- |
+| [발표 화면](https://kookmin-sw.github.io/E26-AI01-05/poster/present.html) | 전체화면·영역별 확대·키보드 이동 지원 |
 | [A0 PDF](NEURO_ROAD_2050_A0.pdf) | 발표·출력용 포스터 1페이지 |
 | [편집용 SVG](NEURO_ROAD_2050_Editable.svg) | 글자·배치·심볼·연결선을 수정하는 원본 |
 | [편집 패키지 ZIP](NEURO_ROAD_2050_Editable_Package.zip) | SVG, 이미지, 폰트와 라이선스, 제작 기록, 생성 프롬프트 |

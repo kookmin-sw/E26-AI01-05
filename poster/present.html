@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#101a24">
+  <title>NEURO ROAD 2050 · 포스터 발표</title>
+  <link rel="stylesheet" href="present.css">
+  <script src="present.js" defer></script>
+</head>
+<body>
+  <header class="masthead">
+    <a class="brand" href="../">NEURO ROAD <span>2050</span><small>포스터 발표</small></a>
+    <div class="actions">
+      <a class="pdf-link" href="NEURO_ROAD_2050_A0.pdf" target="_blank" rel="noopener">PDF 열기 ↗</a>
+      <button id="fullscreen" class="primary" type="button" aria-pressed="false" title="전체화면 전환 (F)">⛶ 전체화면</button>
+    </div>
+  </header>
+  <nav class="sections" aria-label="발표 순서">
+    <button type="button" data-section="0" aria-pressed="true">전체 보기</button>
+    <button type="button" data-section="1" aria-pressed="false">1 제목·요약</button>
+    <button type="button" data-section="2" aria-pressed="false">2 문제·사용자</button>
+    <button type="button" data-section="3" aria-pressed="false">3 미래 장면</button>
+    <button type="button" data-section="4" aria-pressed="false">4 기술 방식</button>
+    <button type="button" data-section="5" aria-pressed="false">5 검증·팀 소개</button>
+  </nav>
+  <main id="stage" tabindex="0" aria-label="포스터. 위의 항목을 누르면 확대됩니다. 마우스 휠로 확대하고 끌어서 이동할 수 있습니다.">
+    <img id="poster" src="../assets/neuro-road-2050/poster-preview.png" width="841" height="1189" draggable="false" alt="NEURO ROAD 2050. 사람을 위한 길을, 도시가 함께 만든다. 함께 보는 도로, 바퀴 없는 이동, 달리며 충전, 접히는 주차, 살아 움직이는 도로를 제안하는 팀 포스터.">
+    <p id="loading" role="status">포스터를 불러오는 중…</p>
+    <p id="notice" role="status" hidden></p>
+  </main>
+  <footer class="controls">
+    <div class="paging">
+      <button id="previous" type="button" aria-label="이전 영역" title="이전 (←)">←</button>
+      <span id="position" aria-live="polite">전체 보기</span>
+      <button id="next" type="button" aria-label="다음 영역" title="다음 (→ / Space)">→</button>
+    </div>
+    <p class="hint">← → 순서 이동 <span>·</span> F 전체화면 <span>·</span> 0 전체 보기 <span>·</span> 휠 확대 / 끌어서 이동</p>
+    <div class="zoom">
+      <button id="zoom-out" type="button" aria-label="축소">−</button>
+      <button id="fit" type="button" title="현재 영역을 화면에 맞추기">화면 맞춤</button>
+      <button id="zoom-in" type="button" aria-label="확대">＋</button>
+    </div>
+  </footer>
+  <noscript><p class="no-script">발표 화면을 사용하려면 브라우저에서 JavaScript를 허용해 주세요. <a href="NEURO_ROAD_2050_A0.pdf">PDF로 보기</a></p></noscript>
+</body>
+</html>
