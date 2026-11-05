@@ -6,4 +6,4 @@
 *.zip binary
 
 # The editable SVG embeds large image assets; keep its diff compact.
-poster/*.svg -diff
+poster/*.svg -diff -text
