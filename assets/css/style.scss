@@ -202,6 +202,32 @@ a:focus-visible {
   background: #f6f9fc;
 }
 
+/* Keep feature numbers and Korean names on one line, including small screens. */
+.main-content table th[nowrap],
+.main-content table td[nowrap] {
+  white-space: nowrap;
+  word-break: keep-all;
+  overflow-wrap: normal;
+}
+
+.main-content .feature-table th:first-child,
+.main-content .feature-table td:first-child {
+  min-width: 3.5rem;
+  text-align: center;
+}
+
+.main-content .feature-table th:nth-child(2),
+.main-content .feature-table td:nth-child(2) {
+  min-width: 12rem;
+}
+
+.main-content .feature-table th:nth-child(3),
+.main-content .feature-table td:nth-child(3) {
+  min-width: 20rem;
+  word-break: keep-all;
+  overflow-wrap: break-word;
+}
+
 .main-content code {
   background: #edf3f8;
   color: #315770;
