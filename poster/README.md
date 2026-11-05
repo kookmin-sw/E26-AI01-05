@@ -1,6 +1,6 @@
 # NEURO ROAD 2050 · 포스터
 
-[팀 홈](../README.md) · [미래 기획](../week07.md) · [4분 55초 발표 대본](../docs/presentation-script.md) · [출처와 제작 기록](../docs/references.md)
+[팀 홈](../README.md) · [미래 기획](../week07.md) · [출처와 제작 기록](../docs/references.md)
 
 **사람을 위한 길을, 도시가 함께 만든다.**
 
@@ -17,7 +17,6 @@
 | [편집 패키지 ZIP](NEURO_ROAD_2050_Editable_Package.zip) | SVG, 이미지, 폰트와 라이선스, 제작 기록, 생성 프롬프트 |
 | [미리보기 PNG](../assets/neuro-road-2050/poster-preview.png) | 화면 확인용 이미지 |
 | [미래 장면 PNG](../assets/neuro-road-2050/city.png) | 웹에서 보는 중앙 장면. 인쇄용 고해상도 이미지는 편집 패키지에 포함 |
-| [발표 대본](../docs/presentation-script.md) | 포스터 순서대로 설명하는 4분 55초 목표 대본 |
 
 ## 이번 수정에서 달라진 점
 
@@ -74,4 +73,4 @@ SVG의 건물·차량은 래스터 이미지 안에 있고, 글자·무선 연�
 
 ---
 
-[← 팀 홈](../README.md) · [발표 대본 →](../docs/presentation-script.md)
+[← 팀 홈](../README.md) · [미래 기획 →](../week07.md)

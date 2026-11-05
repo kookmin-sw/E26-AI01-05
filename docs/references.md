@@ -1,6 +1,6 @@
 # NEURO ROAD 2050 · 출처와 제작 기록
 
-[팀 홈](../README.md) · [미래 기획](../week07.md) · [포스터](../poster/README.md) · [발표 대본](presentation-script.md)
+[팀 홈](../README.md) · [미래 기획](../week07.md) · [포스터](../poster/README.md)
 
 최신 포스터 **Draft07 · 2026.11.05**에 사용한 자료입니다. 현재의 문제를 설명하는 통계, 개별 기술의 참고 사례, 팀이 상상한 미래 기능을 나누어 정리했습니다.
 
@@ -55,7 +55,7 @@
 | 디자인 도구 | [Canva](https://www.canva.com/) | 팀의 디자인 도구 표기 |
 | AI 이미지 | Open AI 이미지 생성 | 미래 도시·차량 장면 제작과 도로 모듈 수정 |
 | 해상도 보강 | [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) | 중앙 그림 4배 해상도 보강 |
-| 기획·문구 | ChatGPT | 아이디어 정리, 문구 초안과 발표 대본 구성 |
+| 기획·문구 | ChatGPT | 아이디어 정리와 문구 초안 구성 |
 
 포스터 표기: **AI 활용: Open AI 이미지 생성 / Real-ESRGAN 해상도 보강**<br>
 **포스터 레퍼런스 참조: Behance · 디자인 도구: Canva**

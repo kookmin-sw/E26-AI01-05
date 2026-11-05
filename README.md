@@ -7,7 +7,7 @@
 
 2050년 국민대학교 주변, 차량과 도로가 함께 위험을 감지하고 사람의 걸음에 맞춰 공간을 준비하는 미래를 상상합니다. **함께 보는 도로, 바퀴 없는 이동, 달리며 충전, 접히는 주차, 살아 움직이는 도로**를 연결한 AI 완전자율주행도로 기획입니다.
 
-[**포스터 PDF**](poster/NEURO_ROAD_2050_A0.pdf) · [미래 기획](week07.md) · [4분 55초 발표 대본](docs/presentation-script.md) · [출처와 제작 기록](docs/references.md)
+[**포스터 PDF**](poster/NEURO_ROAD_2050_A0.pdf) · [미래 기획](week07.md) · [출처와 제작 기록](docs/references.md)
 
 [![차량·보행자·도로 센서의 협력, 자기부상 이동, 무선충전, 접이식 주차와 펼쳐지는 도로를 표현한 NEURO ROAD 2050 미래 장면](assets/neuro-road-2050/city.png)](week07.md)
 
@@ -56,7 +56,6 @@ AI가 주변 상황과 이동 수요를 판단하고, 전자석·충전 장치·
 | **과거에 사람들이 상상한 미래** | 전기자동차에서 자율주행으로 이어진 상상과 기술 | 👉 [week03 활동 보기](week03.md) |
 | **그들이 만들어가는 세상** | Re:Stage — 국민대생의 팀 발표 준비를 돕는 AI 서비스 소주제 | 👉 [week05 활동 보기](week05.md) |
 | **우리가 상상한 미래** | NEURO ROAD 2050 — 문제·사용자·미래 장면·기술·검증 질문 | 👉 [week07 활동 보기](week07.md) |
-| **발표 준비** | 최신 포스터를 순서대로 설명하는 4분 55초 대본 | 👉 [발표 대본 보기](docs/presentation-script.md) |
 | **팀 활동과 미래 탐색** | 한 학기 활동, 관심 분야와 진로, 소감 | 👉 [활동 기록 보기](docs/activities/team-reflections.md) |
 
 [Re:Stage 2045 확장 기획](docs/activities/restage-2045.md)은 대학생활 문제를 탐색한 활동 기록으로 보관합니다.
