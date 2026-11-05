@@ -20,7 +20,7 @@
 
 <p class="presentation-launch"><a class="presentation-button" href="https://kookmin-sw.github.io/E26-AI01-05/poster/present.html"><strong>⛶ 포스터 발표 화면 열기</strong></a></p>
 
-발표 화면에서 **전체화면** 버튼을 누르세요. **← →**로 순서대로 확대하고, **0**으로 포스터 전체를 볼 수 있습니다.
+발표 화면에서 **전체화면** 버튼을 누르세요. <strong>← →</strong>로 순서대로 확대하고, **0**으로 포스터 전체를 볼 수 있습니다.
 
 <div class="poster">
   <a href="https://kookmin-sw.github.io/E26-AI01-05/poster/present.html"><img src="assets/neuro-road-2050/poster-preview.png" alt="NEURO ROAD 2050 팀 포스터 · 클릭하면 발표 화면이 열립니다" width="600"/></a>
